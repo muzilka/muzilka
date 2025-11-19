@@ -526,4 +526,9 @@ footer {
   border-top: 1px solid var(--text-color);
 }
 
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
 /*# sourceMappingURL=main.css.map */
